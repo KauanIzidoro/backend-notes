@@ -1,4 +1,4 @@
-# WebSockets & Socket.IO
+# WebSockets & [Socket.IO](https://socket.io/docs/v4/)
 
 
 `WebSocket` é um protocolo de comunicação bidirecional, em tempo real baseado em `TCP`
