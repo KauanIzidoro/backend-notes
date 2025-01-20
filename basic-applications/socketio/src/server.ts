@@ -13,7 +13,7 @@ class App{
         this.io = new Server(this.http);
     }
     listenServer(){
-        this.http.listen(3000, () => console.log("is running..."))
+        this.http.listen(3000, () => console.log("Is running..."))
     }
 }
 
