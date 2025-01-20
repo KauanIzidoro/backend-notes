@@ -1,6 +1,7 @@
 # WebSockets & [Socket.IO](https://socket.io/docs/v4/)
 
 [project](/basic-applications/socketio)
+[fastapi & socket.io](https://github.com/pyropy/fastapi-socketio)
 
 `WebSocket` é um protocolo de comunicação bidirecional, em tempo real baseado em `TCP`
 projetado para permitir uma comunicação entre client e servidor. Ele é ideal para cenários onde é necessário manter uma conexão aberta para troca contínua de dados, reduzindo a latência e o overhead
