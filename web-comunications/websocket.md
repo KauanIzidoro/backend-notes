@@ -1,4 +1,4 @@
-# WebSockets & [Socket.IO](https://socket.io/docs/v4/)
+# WebSockets & [Socket.IO](https://socket.io/get-started/chat)
 
 [project](/basic-applications/socketio)
 [fastapi & socket.io](https://github.com/pyropy/fastapi-socketio)
