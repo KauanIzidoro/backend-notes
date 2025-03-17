@@ -1,11 +1,12 @@
-# 📌 Roteiro de Estudo para Engenheiro de Software
+# 📌 Izidoro Prime Mode 
 
-## ⏰ Rotina de Estudos
+## ⏰ Roadmap 
 
-### **Manhã (06:00 – 08:00) → Estudo teórico e leitura**  
-⏳ 2h focadas em teoria e aprendizado estruturado  
+### **Morning (06:00am – 08:00am) → Theory and Reading**  
+⏳ 2 hours focus on Structured Learning and Theory
 
-- **Segunda-feira:** Arquitetura avançada (padrões, sistemas distribuídos, design de APIs)  
+
+- **Monday:** Arquitetura avançada (padrões, sistemas distribuídos, design de APIs)  
 - **Terça-feira:** Banco de dados e escalabilidade (replicação, sharding, tuning de queries)  
 - **Quarta-feira:** DevOps e Infraestrutura (Docker, Kubernetes, Terraform, CI/CD)  
 - **Quinta-feira:** Segurança e boas práticas (OAuth, JWT, OWASP, rate limiting)  
